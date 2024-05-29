@@ -1,6 +1,6 @@
 # EASY AI
 Easy ai -  AI Chat Assistant App
-## (Frontend practice project)
+## server address: https://gen-api-psi.vercel.app
 ## (no youtube copy)
 Welcome to the AI Chat Assistant App! This app features multiple AI personalities, each with its own unique traits and expertise. Users can interact with different AI personalities to get insights, advice, and information on various topics.Features
 
@@ -10,17 +10,17 @@ Welcome to the AI Chat Assistant App! This app features multiple AI personalitie
 
 # Preview
 Home->
-![](images/home1.png)
+![](images/home1.PNG)
 
 other->
-![](images/home2.png)
+![](images/home2.PNG)
 
 chat->
-![](images/chat0.png)
+![](images/chat0.PNG)
 chat->
-![](images/chat1.png)
+![](images/chat1.PNG)
 chat->
-![](images/chat2.png)
+![](images/chat2.PNG)
 
 Installation
 
