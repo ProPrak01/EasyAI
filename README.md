@@ -1,5 +1,6 @@
 # EASY AI
 Easy ai -  AI Chat Assistant App
+## This project is a practice part of the hackathon (Build with AI : Google hackathon)
 ## server address: https://gen-api-psi.vercel.app
 ## (no youtube copy)
 Welcome to the AI Chat Assistant App! This app features multiple AI personalities, each with its own unique traits and expertise. Users can interact with different AI personalities to get insights, advice, and information on various topics.Features
@@ -60,6 +61,7 @@ Usage
 - **Cloudinary**: For saving and managing images.
 - **React Native Navigation**: For navigation within the React Native app.
 - **React Native Gifted Chat**: For the chat interface in the React Native app.
+- 
 
 AI Personalities
 
