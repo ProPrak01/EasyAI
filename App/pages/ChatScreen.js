@@ -84,7 +84,7 @@ const ChatScreen = () => {
   };
 
   return (
-    <View style={{ backgroundColor: "#fff", flex: 1 }}>
+    <View style={{ backgroundColor: params.selectedFace.secondary, flex: 1 }}>
       <GiftedChat
         messages={messages}
         isTyping={loading}
