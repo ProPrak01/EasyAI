@@ -67,10 +67,13 @@ const HomeScreen = () => {
             backgroundColor: selectedChatFaceData.primary,
             paddingHorizontal: 50,
             paddingVertical: 20,
+            borderWidth: 3, // Add this line for border width
+            borderColor: "#000000", // Add this line for border color
+         
           }}
           onPress={() => navigation.navigate('chat', { selectedFace: selectedChatFaceData })}
         >
-          <Text style={{ color: "#ffffff", fontSize: 20, fontWeight: "bold" }}>
+          <Text style={{ color: "#ffffff", fontSize: 20, fontWeight: "bold"}}>
             CHAT
           </Text>
         </TouchableOpacity>
@@ -100,7 +103,7 @@ const HomeScreen = () => {
               )
             }
           />
-          <Text style={{ marginTop: 5, fontSize: 17, color: "#B0B0B0", fontFamily: 'custom-font' }}>
+          <Text style={{ marginTop: 10, fontSize: 13, color: selectedChatFaceData.primary, fontFamily: 'custom-font' }}>
             Choose your chat personalities
           </Text>
         </View>
