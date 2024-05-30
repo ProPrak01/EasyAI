@@ -11,17 +11,16 @@ Welcome to the AI Chat Assistant App! This app features multiple AI personalitie
 
 # Preview
 Home->
-![](images/home1.PNG)
+![](images/home3.PNG)
 
 other->
-![](images/home2.PNG)
+![](images/home4.PNG)
 
 chat->
-![](images/chat0.PNG)
+![](images/chat3.PNG)
 chat->
-![](images/chat1.PNG)
-chat->
-![](images/chat2.PNG)
+![](images/chat4.PNG)
+
 
 Installation
 
