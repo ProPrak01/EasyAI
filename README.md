@@ -94,8 +94,5 @@ Acknowledgements
 
     Vite
     React
-    NewsAPI
-    OpenCageData API
-    WeatherAPI
-
+    Google GenAI API
 
